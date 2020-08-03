@@ -1,0 +1,7 @@
+git clone https://github.com/alunoficpatrocinio/WEB001_AF_REC.git
+cd WEB001_AF
+criar os arquivos na pasta
+git add *
+git status
+git commit -m "WEB001_AF"
+git push origin master
